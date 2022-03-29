@@ -2,7 +2,7 @@
 
 The repository is the code for paper: 'DESTINE: Dense Subgraph Detection on Multi-Layered Networks'.
 
-The provided code can generate synthetic multi-layered Erdos-Renyi/Scale-free network and run our proposed DESTINE method.
+The provided code can generate synthetic multi-layered Erdos-Renyi/Scale-free network and run our proposed DESTINE method. The parameter p and g can be grid searched easily.
 
 If you find this repository useful, please kindly cite the following paper:
 
