@@ -1,6 +1,6 @@
 # DESTINE: Dense Subgraph Detection on Multi-Layered Networks
 
-The repository is the code for paper: DESTINE: Dense Subgraph Detection on Multi-Layered Networks. If you find this repository useful, please kindly cite the following paper:
+The repository is the code for paper: 'DESTINE: Dense Subgraph Detection on Multi-Layered Networks'. If you find this repository useful, please kindly cite the following paper:
 
 ```
 @inproceedings{xu2021destine,
